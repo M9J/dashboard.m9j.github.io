@@ -1,0 +1,40 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.test-page-banner {
+  background: #000;
+  color: #fff;
+  padding: 8px 24px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.app-title {
+  padding: 24px;
+  margin: 0;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: #000;
+}
+
+.navigation-link {
+  background-color: #000;
+  color: #fff;
+  padding: 16px 24px;
+  margin-right: 8px;
+  border-radius: 100px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.route-content {
+  padding: 24px;
+}
