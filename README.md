@@ -1,4 +1,4 @@
-# Dashboard.M9J.Github.io
+# Dashboard.M9J.github.io
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
 
